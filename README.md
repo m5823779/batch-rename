@@ -1,4 +1,4 @@
-# batch-rename
+# batch Rename
 batch rename file
 
 
